@@ -1,0 +1,5 @@
+This document lists pending issues for the Project Lance game that are to be completed by the final submission.
+Last Updated: 4/15/18
+---------------------
+1. HUD (In game user display) spawning properly for the local multiplayer game mode. Currently only one instance spawns properly.
+2. Improvements to the character select menu for multiplayer. Currently the screen displays the level to the player not selecting a character. Change this to display a waiting screen for the players waiting for the previous players to select their characters.
