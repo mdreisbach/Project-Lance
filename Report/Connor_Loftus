@@ -1,0 +1,12 @@
+This file details the contributions of Connor Loftus for this project.
+--------------------------------------
+-Edited together final version of the following documents: Spec, Design Document
+-Edited videos for demo and in class presentation
+-Edited final version of powerpoint (took contributions of teammates and put together into one powerpoint)
+-Took the role of scrum master and led team in organizing schedules and demo times
+-Coded and implemented the Priority Algorithm
+-Worked on refactoring of Delay Algorithm (Blueprint) to C++
+-Created and coded logic for the first revision of death wall trigger
+-Created HUD for distance traveled and distance to the wall
+-Created and implemented first draft of ability icons
+-Added killzone floor trigger to the level segment "super class"
