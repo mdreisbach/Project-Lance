@@ -1,0 +1,3 @@
+This file details issues and bugs that were found during the final phase of the project (presentation) and have yet to be resolved.
+--------------------------------------------
+1. During multiplayer each player must hit start to select their character. If a player fails to hit start the game will begin to play for the other characters. During testing this was not found due to our team always knowing that start should be hit right away. During the live demo it was realized that this was an issue and would result in an unexpected end to the game. Going forward a solution would be to have the game paused until the final player selects their character. Currently it unpauses after each character is selected.
