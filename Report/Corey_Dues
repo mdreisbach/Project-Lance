@@ -1,0 +1,10 @@
+This file details the contributions of Corey Dues for this project.
+--------------------------------------
+- Recorded videos for the demos
+- Worked on implementing multiplayer(splitscreen) and getting it working within our level
+- Made object of class to handle all of the global variables used in multiplayer/menus
+- Worked on multiple characters' funtionality, mostly with fan girl and some with ninja
+- Worked on cooldown system for character's abilities
+- Created and hosted a perforce server for team to use
+- Added in music for main menu and in-game
+- Added the death cloud to give a visual representation of the death wall
