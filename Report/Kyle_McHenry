@@ -7,3 +7,4 @@ This file details the contributions of Kyle McHenry for this project.
 - Worked on the actual character's functionality themselves, mostly Eloise and less so other characters
 - Worked on cooldown system for character's abilities
 - Made all of the HUDs/Menus except for the distance to Wall HUD, and got them to work for each indivual character/screen.
+- Made the character select, along with Corey, to correctly destroy the placeholder player and spawn the correct one after the player chooses.
