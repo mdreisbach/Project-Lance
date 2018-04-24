@@ -1,0 +1,11 @@
+Tom Abraham's Contributions to Project: Lance
+
+-Researched and created the initial Procedural Map Generation (set up for inheritance, generate and remove levels based on overlapping of trigger volumes)
+-Researched and created the most basic of multiplayer functionality (multiple characters spawning in a single game, splitscreen, and ensuring all players spawn on different spawn points via identification variables
+-Contributed to Design Document (sections on level loading and procedural map generation, images of blueprints for this and for multiplayer)
+-Created the Switch Block (flashing red & blue blocks that disappear and become intangible) levels and their functionality (4 different levels, SwitchBlock 1 through 4)
+-Created the kunai model, kunai functionality (radial force, not the mechanic of throwing), and HUD elements (includes: images appearing and disappearing when knives are picked up and thrown, respectively. Had an issue where it incremented twice, found a fix for this problem) for Ninja character's Kunai ability
+-Added in sound effects (directly into blueprint code or via animations, depending on how it needed to work. Applies to all 4 characters.)
+-Researched and implemented a method of spawning items within a designated area (used for kunai and barrels)
+-Added a type of platform to giant wall level (made using arrays)
+-Character balance fixes (changes made to Animal Handler's speed and platform ability, Fangirl tracers removed, timer for Fangirl glide added)
