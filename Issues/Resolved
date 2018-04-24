@@ -1,0 +1,7 @@
+This document outlines issues that were determined during the final phase of the project. These issues were resolved by the final submission of the project.
+---------------------------------
+1. Issue: HUD (In game user display) spawning properly for the local multiplayer game mode. Currently only one instance spawns properly.
+   Resolved: HUD icons and distance text now displays correctly for all characters when multiplayer is selected.
+   
+2. Improvements to the character select menu for multiplayer. Currently the screen displays the level to the player not selecting a character. Change this to display a waiting screen for the players waiting for the previous players to select their characters.
+   Resolved: The character select menu now displays, "Waiting for other players". While a different player is selecting their characters.
