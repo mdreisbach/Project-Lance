@@ -1,0 +1,9 @@
+This file details the contributions of Kyle McHenry for this project.
+--------------------------------------
+- Contributed to the Design Doc
+- Recorded videos for the demos
+- Worked on implementing multiplayer(splitscreen) and getting it working within our level
+- Made object of class to handle all of the global variables used in multiplayer/menus
+- Worked on the actual character's functionality themselves, mostly Eloise and less so other characters
+- Worked on cooldown system for character's abilities
+- Made all of the HUDs/Menus
