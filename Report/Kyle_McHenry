@@ -6,4 +6,4 @@ This file details the contributions of Kyle McHenry for this project.
 - Made object of class to handle all of the global variables used in multiplayer/menus
 - Worked on the actual character's functionality themselves, mostly Eloise and less so other characters
 - Worked on cooldown system for character's abilities
-- Made all of the HUDs/Menus
+- Made all of the HUDs/Menus except for the distance to Wall HUD, and got them to work for each indivual character/screen.
