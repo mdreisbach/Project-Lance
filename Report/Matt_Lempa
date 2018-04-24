@@ -1,0 +1,11 @@
+This file details the contributions of Matthew Lempa for this project.
+--------------------------------------
+-Created outlines/first drafts of PowerPoint presentations
+-Programmed entirety of Animal Handler character logic
+-Contributed to design and implementation of logic for the following character features:
+  -Ability cooldown timers
+  -Teleportation for Eloise and Animal Handler
+  -Aiming/reticle and projectile launching for Eloise and Animal Handler 
+-Designed/coded the One-Way Platform ("Cloud") object
+-Designed/created the Spiral Tower level tile archetype
+-Contributed to final design of player HUD
