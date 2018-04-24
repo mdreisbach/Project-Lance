@@ -1,0 +1,17 @@
+This file details the contributions of Miles Dreisbach for this project.
+--------------------------------------
+-Designed the game idea and core components
+-Did research for numerous components and mechanisms created and implemented into the game
+-Designed the four unique characters including their abilities, and mechanics
+-Created numerous levels that were implemented into the game
+-Help create and imporove dynamic level loading
+-Helped create and design level priority algorithm
+-Created and helped code all implemented characters
+-Improved all existing levels that went into the final version of the game
+-Created algorithm for the spawn rate of interactable items
+-Improved gameplay runtime quality by making numerous blueprints "cleaner"
+-Made revisions to and helped code the Priority Algorithm
+-Created Delay Algorithm through Blueprints then helped refactor to C++
+-Made revisions to death wall trigger, as well as attatched particle effect to wall itself
+-Created death wall movement speed algorithm which controls the speed in which the wall moves
+-Made revisions to killzone floor trigger in various "child classes"
